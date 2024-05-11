@@ -1,0 +1,10 @@
+name: apptest
+title:
+username: kamakshi-soni
+account: kamakshi-soni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11838774
+bundleId: 8530408
+url: https://kamakshi-soni.shinyapps.io/apptest/
+version: 1
